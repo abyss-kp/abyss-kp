@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on React,VanillaJs,Node,PWA's
 - 💬 Ask me about HTML,CSS,JS,React,Redux,Web-workers,Service Workers,Material-UI
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abyss-kp&count_private=true&show_icons=true&theme=dark)]
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abyss-kp&count_private=true&show_icons=true&theme=dark)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyss-kp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abyss-kp)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abyss-kp)](https://github.com/anuraghazra/github-readme-stats) -->
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abyss-kp&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abyss-kp&repo=convoychat" />
 
