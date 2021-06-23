@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abyss-kp&count_private=true&show_icons=true&theme=dark)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyss-kp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abyss-kp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abyss-kp)](https://github.com/anuraghazra/github-readme-stats)
 
 
