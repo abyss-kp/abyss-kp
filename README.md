@@ -18,12 +18,30 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abyss-kp&layout=compact" />
  -->
 
-<h1 align="center">Hi 👋, I'm Kapil Pandey</h1>
+<!-- <h1 align="center">Hi 👋, I'm Kapil Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h5 align="left">- 🌱 I’m currently learning about the future of web --> PWA's and React Native</h5>
+<h5 align="left">- 🌱 I’m currently learning about the future of web i.e PWA's and React Native</h5>
 <h5 align="left">- 👯 I’m looking to collaborate on React,VanillaJs,Node,PWA's,React-Native</h5>
 <h5 align="left">
-- 💬 Ask me about HTML,CSS,JS,React,Redux,React-Native,Expo,Web-workers,Service Workers,Material-UI</h5></br>
+- 💬 Ask me about HTML,CSS,JS,React,Redux,React-Native,Expo,Web-workers,Service Workers,Material-UI</h5></br> -->
+<br />
+<img src="https://i.imgur.com/68mbMBg.gif" align="left" width="300" alt="ful1e5 with halo"/>
+
+# Hi, I'm Kapil Pandey 👋
+<h3 align="left">A passionate frontend developer from India</h3>
+
+💪 Pronouns: **He**/**Him**
+
+🧑‍🎓 Bachelor of Computer Science
+
+🖌️I’m currently learning about the future of web i.e PWA's and React Native
+
+🤹 Playing with **React** & **React-native**.
+
+<h5 align="right">💬 Ask me about HTML,CSS,JS,React,Redux,React-Native,Expo,Web-workers,Service Workers,Material-UI</h5>
+
+<br />
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abyss-kp&label=Profile%20views&color=0e75b6&style=flat" alt="abyss-kp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abyss-kp" alt="abyss-kp" /></a> </p>
