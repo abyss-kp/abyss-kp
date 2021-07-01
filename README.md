@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 🤹 Playing with **React** & **React-native**.
 
-<h5 align="right">💬 Ask me about HTML,CSS,JS,React,Redux,React-Native,Expo,Web-workers,Service Workers,Material-UI</h5>
+💬 Ask me about HTML,CSS,JS,React,Redux,React-Native,Expo,Web-workers,Service Workers,Material-UI
 
 <br />
 <br />
